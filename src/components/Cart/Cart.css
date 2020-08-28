@@ -1,0 +1,16 @@
+.state-container{
+    height: 50px;
+    background-image:linear-gradient(to bottom, #FC766AFF, rgb(241, 138, 128)) ;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    padding: 8px ;
+}
+.total-area{
+    position: relative;
+    left: 900px;;
+}
+.added-area{
+    position: relative;
+    left: 40px;
+}

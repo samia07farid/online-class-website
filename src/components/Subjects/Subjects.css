@@ -1,0 +1,24 @@
+.card-container{
+    display: inline-flex;
+    margin-left: 15px;
+}
+.each-card{
+    margin-bottom: 25px;
+}
+.plus-icon{
+    padding-right: 5px;
+}
+.box-shadow{
+    box-shadow: 10px 10px 12px -4px rgba(120,107,120,1);
+}
+.plus-icon{
+    background-color: #ff0044;
+}
+.icon{
+    background-color: #ff0044;
+}
+p.instructor{
+    margin-bottom: 10px;
+    color: gray;
+    font-family: 'Baloo Tamma 2', cursive;
+}
