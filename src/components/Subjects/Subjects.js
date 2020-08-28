@@ -11,7 +11,7 @@ const Subjects = (props) => {
     return (
         <div className="card-container">
         <div className="col-md-3 each-card">
-            <Card className="box-shadow" style={{ width: '18rem' }}>
+            <Card style={{ width: '18rem' }}>
                 <Card.Img variant="top" src={image}/>
                 <Card.Body>
                     <Card.Title>{name}</Card.Title>
